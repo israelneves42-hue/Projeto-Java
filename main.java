@@ -7,5 +7,7 @@ public class main {
         String name = ler.nextLine();
         System.out.println("Hello, " + name + "!");
         ler.close();
-    }
+    } 
 }
+   
+
